@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Callback Request\n"
+"POT-Creation-Date: 2013-04-05 14:20-0000\n"
+"PO-Revision-Date: 2013-10-22 14:24+0400\n"
+"Last-Translator: Alexander Gladnev <gladnev@v-r-n.ru>\n"
+"Language-Team: Joeyb Design <info@joeybdesign.co.uk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ..\n"
+
+#: ../callback_settings.php:36
+msgid "Settings Saved"
+msgstr "Настройки сохранены"
+
+#: ../callback_settings.php:56
+msgid "Callback Request Settings Page"
+msgstr "Настройки заказа звонка"
+
+#: ../callback_settings.php:61
+msgid "Callback Request Email Settings"
+msgstr "Email-настройки заказа звонка"
+
+#: ../callback_settings.php:63
+msgid "Sender: "
+msgstr "Отправитель:"
+
+#: ../callback_settings.php:64
+msgid "This is who the email is sent from to you."
+msgstr "Это тот, кто отправляет Вам e-mail"
+
+#: ../callback_settings.php:66
+msgid "Your Email: "
+msgstr "Ваш e-mail:"
+
+#: ../callback_settings.php:67
+msgid "This is who the script will send callback request emails to."
+msgstr "Это тот, кому будет отправлен e-mail с заказом звонка"
+
+#: ../callback_settings.php:69
+msgid "Email Subject: "
+msgstr "Тема сообщения:"
+
+#: ../callback_settings.php:70
+msgid "e.g.: Someone has requested a callback. "
+msgstr "например: Вас просят перезвонить"
+
+#: ../callback_settings.php:73
+msgid "Callback Request Style Settings"
+msgstr "Настройки внешнего вида заказа звонка"
+
+#: ../callback_settings.php:75
+msgid "Use Button Styling: "
+msgstr "Изменить оформление кнопки:"
+
+#: ../callback_settings.php:78
+msgid "Button Text Colour: "
+msgstr "Цвет текста кнопки:"
+
+#: ../callback_settings.php:81
+msgid "Button Background Colour: "
+msgstr "Цвет фона кнопки:"
+
+#: ../callback_settings.php:84
+msgid "Button Border Colour: "
+msgstr "Цвет рамки кнопки:"
+
+#: ../callback_settings.php:88
+msgid "Button Alignment: "
+msgstr "Выравнивание кнопки:"
+
+#: ../callback_settings.php:90
+msgid "Left"
+msgstr "Слева"
+
+#: ../callback_settings.php:91
+msgid "Right"
+msgstr "Справа"
+
+#: ../callback_settings.php:92
+msgid "Center"
+msgstr "По центру"
+
+#: ../callback_settings.php:96
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: ../callback_shortcode.php:27
+#, php-format
+msgid "%1$s has requested a callback at %2$s on %3$s."
+msgstr "%1$s просит перезвонить %2$s в %3$s."
+
+#: ../callback_shortcode.php:34
+msgid "Thankyou, we will call you as requested"
+msgstr "Спасибо, Ваше сообщение получено!"
+
+#: ../callback_shortcode.php:44
+msgid "Name"
+msgstr "Имя"
+
+#: ../callback_shortcode.php:44
+msgid "Number"
+msgstr "Телефон"
+
+#: ../callback_shortcode.php:45
+msgid "Suitable Time"
+msgstr "Время звонка"
+
+#: ../callback_shortcode.php:46
+msgid "Request Callback"
+msgstr "Заказать звонок"

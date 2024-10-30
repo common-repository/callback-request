@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Callback Request\n"
+"POT-Creation-Date: 2013-04-05 14:20-0000\n"
+"PO-Revision-Date: 2013-04-08 10:53-0000\n"
+"Last-Translator: Jo Biesta <info@joeybdesign.co.uk>\n"
+"Language-Team: Joeyb Design <info@joeybdesign.co.uk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ..\n"
+
+#: ../callback_settings.php:36
+msgid "Settings Saved"
+msgstr ""
+
+#: ../callback_settings.php:56
+msgid "Callback Request Settings Page"
+msgstr ""
+
+#: ../callback_settings.php:61
+msgid "Callback Request Email Settings"
+msgstr ""
+
+#: ../callback_settings.php:63
+msgid "Sender: "
+msgstr ""
+
+#: ../callback_settings.php:64
+msgid "This is who the email is sent from to you."
+msgstr ""
+
+#: ../callback_settings.php:66
+msgid "Your Email: "
+msgstr ""
+
+#: ../callback_settings.php:67
+msgid "This is who the script will send callback request emails to."
+msgstr ""
+
+#: ../callback_settings.php:69
+msgid "Email Subject: "
+msgstr ""
+
+#: ../callback_settings.php:70
+msgid "e.g.: Someone has requested a callback. "
+msgstr ""
+
+#: ../callback_settings.php:73
+msgid "Callback Request Style Settings"
+msgstr ""
+
+#: ../callback_settings.php:75
+msgid "Use Button Styling: "
+msgstr ""
+
+#: ../callback_settings.php:78
+msgid "Button Text Colour: "
+msgstr ""
+
+#: ../callback_settings.php:81
+msgid "Button Background Colour: "
+msgstr ""
+
+#: ../callback_settings.php:84
+msgid "Button Border Colour: "
+msgstr ""
+
+#: ../callback_settings.php:88
+msgid "Button Alignment: "
+msgstr ""
+
+#: ../callback_settings.php:90
+msgid "Left"
+msgstr ""
+
+#: ../callback_settings.php:91
+msgid "Right"
+msgstr ""
+
+#: ../callback_settings.php:92
+msgid "Center"
+msgstr ""
+
+#: ../callback_settings.php:96
+msgid "Save Settings"
+msgstr ""
+
+#: ../callback_shortcode.php:27
+#, php-format
+msgid "%1$s has requested a callback at %2$s on %3$s."
+msgstr "%1$s a demandé d’être rappelé a %2$s au numéro %3$s."
+
+#: ../callback_shortcode.php:34
+msgid "Thankyou, we will call you as requested"
+msgstr "Merci, nous vous recontactons au plus vite."
+
+#: ../callback_shortcode.php:44
+msgid "Name"
+msgstr "Nom"
+
+#: ../callback_shortcode.php:44
+msgid "Number"
+msgstr "Téléphone"
+
+#: ../callback_shortcode.php:45
+msgid "Suitable Time"
+msgstr "Temps approprié"
+
+#: ../callback_shortcode.php:46
+msgid "Request Callback"
+msgstr "Demander un rappel"
